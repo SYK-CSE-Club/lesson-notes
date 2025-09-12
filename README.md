@@ -36,7 +36,7 @@ You can access the lesson notes in two main ways:
 
 ## License
 
-[MIT](LICENSE) or club-specific license.
+[MIT](LICENSE)
 
 ---
 
