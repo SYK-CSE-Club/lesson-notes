@@ -1,5 +1,4 @@
-
-## Session Plan: GitHub, Open Source, Markdown & Python
+## Session Plan: GitHub, Open Source, Markdown & Python Basics
 
 - What is open source software?
 	- Open source software development and recommendations
