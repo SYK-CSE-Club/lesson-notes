@@ -1,4 +1,4 @@
-## Session Plan: More Python & Key Concepts
+# Session Plan: More Python & Key Concepts
 
 - Lists and Iterables
 	- What are lists?
